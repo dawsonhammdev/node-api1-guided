@@ -1,0 +1,29 @@
+
+{
+  "name": "node-api1-guided",
+  "version": "1.0.0",
+  "description": "Guided project for **Node API 1** Module.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "server": "nodemon index.js"
+  },
+  
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawsonhammdev/node-api1-guided.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawsonhammdev/node-api1-guided/issues"
+  },
+  "homepage": "https://github.com/dawsonhammdev/node-api1-guided#readme"
+}
